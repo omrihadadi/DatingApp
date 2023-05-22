@@ -1,0 +1,16 @@
+# C# files
+[*.cs]
+
+#### Core EditorConfig Options ####
+
+# Severities
+dotnet_diagnostic.IDE0016.severity = none
+dotnet_diagnostic.IDE0044.severity = none
+dotnet_diagnostic.IDE0051.severity = none
+dotnet_diagnostic.IDE0055.severity = none
+dotnet_diagnostic.RCS1021.severity = none
+dotnet_diagnostic.RCS1036.severity = none
+dotnet_diagnostic.RCS1037.severity = none
+dotnet_diagnostic.RCS1110.severity = warning
+dotnet_diagnostic.RCS1169.severity = none
+dotnet_diagnostic.RCS1213.severity = none
