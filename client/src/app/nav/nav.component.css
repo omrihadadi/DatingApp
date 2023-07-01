@@ -2,8 +2,17 @@
     cursor: pointer;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
 img {
     max-height: 50px;
-    border: 2px solid white;
+    border: 1px solid rgb(10, 10, 10);
     display: inline;
+}
+
+.dropdown-item {
+    background-color: rgb(213, 12, 236);
 }
